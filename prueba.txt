@@ -4,3 +4,6 @@ git add -A
 
 y para guardar todos los cambios
 git commit -am "Proyecto modificado, agrego un archivo"
+
+/*Modifico un archivo en la nube*/
+Tengo que hacer un git pull origin para poder seguir trabajando
