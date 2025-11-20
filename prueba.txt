@@ -1,0 +1,6 @@
+Esto es una prueba para agregar un archivo
+
+git add -A
+
+y para guardar todos los cambios
+git commit -am "Proyecto modificado, agrego un archivo"
